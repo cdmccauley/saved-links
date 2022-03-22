@@ -50,6 +50,8 @@
 
 - [https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)
 
+- [https://fusebit.io/blog/google-search-console-nodejs/](https://fusebit.io/blog/google-search-console-nodejs/)
+
 ## learn
 
 - [https://www.sitepoint.com/](https://www.sitepoint.com/)
@@ -59,6 +61,10 @@
 - [https://ebookfoundation.github.io/free-programming-books/](https://ebookfoundation.github.io/free-programming-books/)
 
 - [https://marko-knoebl.github.io/slides/index-en.html](https://marko-knoebl.github.io/slides/index-en.html)
+
+- [https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
+
+- [https://get.oreilly.com/rs/107-FMS-070/images/Software-Architecture-Patterns.pdf](https://get.oreilly.com/rs/107-FMS-070/images/Software-Architecture-Patterns.pdf)
 
 ## reference
 
@@ -75,6 +81,10 @@
 - [https://devtoys.app/](https://devtoys.app/)
 
 - [https://yaoapps.com/en-US](https://yaoapps.com/en-US)
+
+- [https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/)
+
+- [https://curlconverter.com/](https://curlconverter.com/)
 
 ## projects
 

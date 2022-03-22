@@ -12,7 +12,11 @@ like bookmarks, but i can share them with you and you can add more! 🤓
 
 - [css](https://github.com/cdmccauley/saved-links/blob/main/css.md)
 
+- [database](https://github.com/cdmccauley/saved-links/blob/main/database.md)
+
 - [javascript](https://github.com/cdmccauley/saved-links/blob/main/javascript.md)
+
+- [php](https://github.com/cdmccauley/saved-links/blob/main/php.md)
 
 - [python](https://github.com/cdmccauley/saved-links/blob/main/python.md)
 

@@ -10,6 +10,8 @@
 
 - [https://securityheaders.com](https://securityheaders.com)
 
+- [https://www.cidersecurity.io/top-10-cicd-security-risks/](https://www.cidersecurity.io/top-10-cicd-security-risks/)
+
 ## learn
 
 - [https://tryhackme.com/](https://tryhackme.com/)
@@ -19,3 +21,7 @@
 - [https://socket.dev/](https://socket.dev/)
 
 - [https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
+
+## tutorials
+
+- [https://bastian.rieck.me/blog/posts/2022/server/](https://bastian.rieck.me/blog/posts/2022/server/)

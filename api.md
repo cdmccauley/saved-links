@@ -15,3 +15,7 @@
 ## learn
 
 - [https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
+
+## tutorial
+
+- [https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
