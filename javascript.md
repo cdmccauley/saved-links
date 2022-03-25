@@ -28,6 +28,8 @@
 
 - [https://gist.github.com/DavidWells/53518b3c12344952641dc81cc7599939](https://gist.github.com/DavidWells/53518b3c12344952641dc81cc7599939)
 
+- [https://www.toptal.com/javascript/functional-programming-javascript](https://www.toptal.com/javascript/functional-programming-javascript)
+
 
 ## libraries
 
