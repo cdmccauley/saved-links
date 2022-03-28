@@ -2,6 +2,8 @@
 
 ## uncategorized
 
+- [https://www.chiselstrike.com/](https://www.chiselstrike.com/)
+
 - [https://refactoring.guru/](https://refactoring.guru/)
 
 - [https://www.cs.utah.edu/~germain/PPS/Topics/](https://www.cs.utah.edu/~germain/PPS/Topics/)
@@ -85,6 +87,8 @@
 - [https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/)
 
 - [https://curlconverter.com/](https://curlconverter.com/)
+
+- [https://www.courier.com](https://www.courier.com)
 
 ## projects
 
