@@ -90,6 +90,14 @@
 
 - [https://www.courier.com](https://www.courier.com)
 
+- [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+- [https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+
+- [https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+- [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
 ## projects
 
 - [https://www.frontendmentor.io/challenges](https://www.frontendmentor.io/challenges)
